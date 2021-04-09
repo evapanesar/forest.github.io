@@ -72,10 +72,6 @@ img.ground-black:hover{
     border-color: #66afe9;
     box-shadow: 0 0 8px  rgba(241,154,23, 0.836);
 }
-img.forest:hover{
-    border-color: #66afe9;
-    box-shadow: 0 0 8px  rgba(241,154,23, 0.836);
-}
 .shadowfilter {
     -webkit-filter: drop-shadow(12px 12px 7px rgba(0, 0, 0, 0.5));
      filter: drop-shadow(12px 12px 7px rgba(0, 0, 0, 0.5));
